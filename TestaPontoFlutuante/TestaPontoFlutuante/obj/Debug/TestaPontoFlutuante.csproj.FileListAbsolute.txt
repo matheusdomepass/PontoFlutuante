@@ -1,0 +1,7 @@
+C:\Users\Bk Bank - Atend 4\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\Bk Bank - Atend 4\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\bin\Debug\TestaPontoFlutuante.exe.config
+C:\Users\Bk Bank - Atend 4\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\bin\Debug\TestaPontoFlutuante.exe
+C:\Users\Bk Bank - Atend 4\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\bin\Debug\TestaPontoFlutuante.pdb
+C:\Users\Bk Bank - Atend 4\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.exe
+C:\Users\Bk Bank - Atend 4\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.pdb
+C:\Users\Bk Bank - Atend 4\source\repos\TestaPontoFlutuante\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.csproj.AssemblyReference.cache
